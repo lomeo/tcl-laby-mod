@@ -1,0 +1,7 @@
+info:
+need	tclsh
+
+run:
+fetch	robot.tcl
+dump	program.tcl
+spawn	tclsh program.tcl
