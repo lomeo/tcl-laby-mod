@@ -1,4 +1,4 @@
-script robot.tcl
+source robot.tcl
 
 laby_name_right
 laby_name_forward
